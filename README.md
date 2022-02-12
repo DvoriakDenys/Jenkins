@@ -1,3 +1,2 @@
 # Jenkins
-Hello World!
-Jenkins
+Hello Jenkins!
